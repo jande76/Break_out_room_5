@@ -1,0 +1,132 @@
+#section-image-div{
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 10%;
+}
+#box-section{
+    padding: 30px;
+    margin-top: 50px;
+    border-style:solid;
+   border-color: rgb(179, 179, 179);
+    border-width: 1px;
+    width: 400px;
+   margin-left: auto;
+   margin-right: auto;
+   border-radius: 5px;
+}
+h2{
+    font-size: 30px;
+   
+}
+h3{
+    font-size: 12px;
+    font-weight: 400;
+}
+h4{
+    font-size: 12px;
+    font-weight: 400;
+}
+h5{
+    width: 8%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 8px;
+}
+#text{
+    width:100%;
+}
+/* .col-md-2{
+    background-color: aquamarine;
+}
+.col-md-4{
+    background-color: rgb(209, 94, 17);
+} */
+ul{
+    display: inline;
+}
+#butt1{
+    margin-top: 10px;
+    height: 30px;
+    width: 100%;
+    background-color: #F5D234;
+    border-width: 1px;
+    background-image: linear-gradient(#f1e195, #F5D234);
+}
+#butt1:hover{
+    margin-top: 10px;
+    height: 30px;
+    width: 100%;
+    background-color: #daba2d;
+    border-width: 1px;
+    background-image: linear-gradient(#e0d28a, #e4c331);
+}
+#butt2{
+        margin-top: 10px;
+        height: 30px;
+        width: 100%;
+        background-color: #c2c2c2;
+        border-width: 1px;
+}
+#butt2:hover{
+    margin-top: 10px;
+    height: 30px;
+    width: 100%;
+    background-color: #b1b1b1;
+    border-width: 1px;
+}
+.help{
+    font-size: x-small;
+}
+.new-to{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.newtoamazon {
+    border-top: 1px solid #cbd2d6;
+    position: relative;
+    margin: 25px 0 10px;
+    text-align: center;
+}
+
+.newtoamazon .newtotext {
+    background-color: #fff;
+    padding: 0 .5em;
+    position: relative;
+    color: #6c7378;
+    top: -1.2em;
+}
+.newtotext{
+    font-weight: 300;
+    font-size: small;
+}
+#footer{
+    border-color: #acacac;
+   margin-top: 40px;
+   border-width:thin;
+   border-bottom: #fff;
+   border-left: #fff;
+   border-right: #fff;
+   border-style: solid;
+
+ 
+}
+.bottom-container{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+footer{
+    width: 400;
+    margin-left: auto;
+    margin-right: auto;
+ 
+}
+li{
+   text-align: center;
+}
+a{
+    text-decoration: none;
+}
