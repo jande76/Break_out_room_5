@@ -50,9 +50,9 @@ ul{
     margin-top: 10px;
     height: 30px;
     width: 100%;
-    background-color: #F5D234;
+    background-color: hsl(226, 98%, 64%);
     border-width: 1px;
-    background-image: linear-gradient(#f1e195, #F5D234);
+    
 }
 #butt1:hover{
     margin-top: 10px;
